@@ -1,0 +1,15 @@
+img {
+    width: 30%;
+    margin: calc(10%/6);
+    cursor: pointer;
+}
+
+nav {
+    text-transform: uppercase;
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+    border-bottom: 2px solid #f1f1f1;
+    width: 30%;
+    padding: 1rem 0;
+    margin-left: calc(10%/6) 
+}
